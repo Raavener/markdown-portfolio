@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+#### Attributes
+
+__I love *teamwork*__
+
+__Learning new *things* is a *passion* of mine__
+
+
