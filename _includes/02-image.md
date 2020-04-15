@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of me on vacation](https://github.com/Raavener/markdown-portfolio/blob/add-images-links/_includes/Ich%20in%20Vorarlberg.jpg)
