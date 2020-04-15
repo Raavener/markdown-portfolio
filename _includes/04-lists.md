@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+### Goals
+* Learning to code and program.
+
+* My goal is to become a game developer!
